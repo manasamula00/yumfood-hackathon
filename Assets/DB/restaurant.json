@@ -1,0 +1,46 @@
+[
+  {
+    "restaurant": {
+      "img": "Assets/Image/Restaurant-banner/momo.png",
+      "restaurant name": "MOMO",
+      "restaurant info":"yummyyyyyyy",
+      "button": "Restaurant Page"
+    }
+  },
+  {
+    "restaurant": {
+      "img": "Assets/Image/Restaurant-banner/biryani.png",
+      "restaurant name": "BIRYANI",
+      "restaurant info":
+        "yummyyyyyyy",
+      "button": "Restaurant Page"
+    }
+  },
+  {
+    "restaurant": {
+      "img": "Assets/Image/Restaurant-banner/pizza.png",
+      "restaurant name": "PIZZA",
+      "restaurant info":
+      "yummyyyyyyy",
+      "button": "Restaurant Page"
+    }
+  },
+  {
+    "restaurant": {
+      "img": "Assets/Image/Restaurant-banner/pasta.jpg",
+      "restaurant name": "PASTA",
+      "restaurant info":
+      "yummyyyyyyy",
+      "button": "Restaurant Page"
+    }
+  },
+  {
+    "restaurant": {
+      "img": "Assets/Image/Restaurant-banner/noodles.jpg",
+      "restaurant name": "WOW NOODLES",
+      "restaurant info":
+      "yummyyyyyyy",
+      "button": "Restaurant Page"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "img": "",
+    "restaurant name": "MOMO",
+    "food": "Chicken Momo",
+    "price":"100rs",
+    "category": "Chinese",
+    "button": "Add to card"
+  },
+  {
+    "img": "",
+    "restaurant name": "BIRIYANI",
+    "food": "Chicken Biryani",
+    "price":"250rs",
+    "category": "Mughlai",
+    "button": "Add to card"
+  },
+  {
+    "img": "",
+    "restaurant name": "PIZZA",
+    "food": "Chicken Pizza",
+    "price":"120rs",
+    "category": "Italian",
+    "button": "Add to card"
+  },
+  {
+    "img": "",
+    "restaurant name": "PASTA",
+    "food": "Chicken Pasta",
+    "price":"300rs",
+    "category": "Italian",
+    "button": "Add to card"
+  }
+]
